@@ -7,9 +7,9 @@
 
 - 📫 How to reach me **jose.m.maldonadojr@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1AXg6G3NY0EJR4mYnKWyrBmu3Clj0lrDQ/edit?usp=sharing&ouid=103504394760097272723&rtpof=true&sd=true](https://docs.google.com/document/d/1AXg6G3NY0EJR4mYnKWyrBmu3Clj0lrDQ/edit?usp=sharing&ouid=103504394760097272723&rtpof=true&sd=true)
+- 📄 Know about my experiences [resume](https://docs.google.com/document/d/1AXg6G3NY0EJR4mYnKWyrBmu3Clj0lrDQ/edit?usp=sharing&ouid=103504394760097272723&rtpof=true&sd=true)
 
-- ⚡ Fun fact **my favorite bank is Pink Floyd**
+- ⚡ Fun fact **my favorite band is Pink Floyd**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
