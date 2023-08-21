@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jose Maldonado</h1>
-<h3 align="center">Just your friendly neighborhood Techie | Aspiring Software Engineer | Sci-Fi Enthusiast</h3>
+<h3 align="center">Software Engineer | Experienced IT Technician | Sci-Fi Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=propitive&label=Profile%20views&color=0e75b6&style=flat" alt="propitive" /> </p>
 
 - 💬 Ask me about **react**
 
 - 📫 How to reach me **jose.m.maldonadojr@gmail.com**
-
-- 📄 Know about my experiences [resume](https://docs.google.com/document/d/1AXg6G3NY0EJR4mYnKWyrBmu3Clj0lrDQ/edit?usp=sharing&ouid=103504394760097272723&rtpof=true&sd=true)
 
 - ⚡ Fun fact **my favorite band is Pink Floyd**
 
