@@ -1,4 +1,4 @@
-| <img align="left" style="border-radius:50%" src="https://github.com/propitive/propitive/assets/97693864/a8479e99-56e6-4ae0-af9a-c5c1ae9721d5" width=100> |<h1 align="left">Jose Maldonado  </h1> | 
+| <img align="left" style="border-radius:50%" src="https://github.com/propitive/propitive/assets/97693864/a8479e99-56e6-4ae0-af9a-c5c1ae9721d5" width=160> |<h1 align="left">Jose Maldonado  </h1> | 
 | -------- | -------- |
 || <h2 align="left">Full Stack Application Developer</h2> <img align="left" src="https://github.com/Kerwindows/Kerwindows/blob/main/files/front-end.png" height=100><img align="left" src="https://github.com/Kerwindows/Kerwindows/blob/main/files/react-dev.png" height=100>  |  
 |My Work Ethics | I am a passionate and driven software engineer with expertise in creating full-stack web applications. I prioritize being teachable when collaborating with other engineers. From team sports to software engineering projects, my philosophy in a team environment has always been the same: the needs of the team take precedence over mine. | 
