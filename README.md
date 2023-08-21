@@ -1,18 +1,19 @@
-<h1 align="center">Hi 👋, I'm Jose Maldonado</h1>
-<h3 align="center">Software Engineer | Experienced IT Technician | Sci-Fi Enthusiast</h3>
+| <img align="left" style="border-radius:50%" src="https://github.com/propitive/propitive/assets/97693864/a8479e99-56e6-4ae0-af9a-c5c1ae9721d5" width=100> |<h1 align="left">Jose Maldonado  </h1> | 
+| -------- | -------- |
+|| <h2 align="left">Full Stack Application Developer</h2> <img align="left" src="https://github.com/Kerwindows/Kerwindows/blob/main/files/front-end.png" height=100><img align="left" src="https://github.com/Kerwindows/Kerwindows/blob/main/files/react-dev.png" height=100>  |  
+|My Work Ethics | I am a passionate and driven software engineer with expertise in creating full-stack web applications. I prioritize being teachable when collaborating with other engineers. From team sports to software engineering projects, my philosophy in a team environment has always been the same: the needs of the team take precedence over mine. | 
+|About Me|I am a classic rock loving, guitar playing, philosophy studying, sports enthusiast determined to contribute to cultivating the path for a sustainable, better future. Moreover, I am a bilingual software engineer with 2+ years of experience in IT. From team sports to resolving perplexing computer issues, my whole life I have acclimated to adversity. Through my past experiences, I boldly approach problems and effortlessly mold my efforts to wholly contribute as a Full-stack developer.|
+|<p>Fun&nbsp;Fact✨&nbsp;&nbsp;</p> | <p align="left"> My favorite band is Pink Floyd </p> |  
+|Note:warning: |<p align="left">My GitHub contributions might not accurately depict my day-to-day coding tasks and projects since 2015. I don't always use GitHub as my version control tool for every project I'm working on or have worked on.</p>|  
+|Tech Stack |  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> <img title='Figma' src="https://github.com/Kerwindows/Kerwindows/blob/main/files/figma.svg" height=40> <mg title='Photoshop' src="https://github.com/Kerwindows/Kerwindows/blob/main/files/photoshop.svg" height=40> |
+|<p align="left">Featured Projects 🌟</p> | <p></p><a target="_blank" href="https://news-explorer.okzk.com" title="News Explorer"> <img src="https://github.com/propitive/propitive/assets/97693864/4785674e-5f2a-4575-ac63-a7cdaa10fcc2" alt="News Explorer" width="220" height="auto"/></a><a target="_blank" href="https://sweaterweather.umhl.com" title="What To Wear"> <img src="https://github.com/propitive/propitive/assets/97693864/aabbc740-53c6-466f-9e98-635d4745f1d3" alt="What To Wear!" width="220" height="auto"/></a><p></p>|
+|Email📫  | <p align="left">jose.m.maldonadojr@gmail.com</p> |
+|Socials|<p align="left"><a href="https://www.linkedin.com/in/jose-m-maldonado/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></p>|
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=propitive&label=Profile%20views&color=0e75b6&style=flat" alt="propitive" /> </p>
 
-- 💬 Ask me about **react**
 
-- 📫 How to reach me **jose.m.maldonadojr@gmail.com**
-
-- ⚡ Fun fact **my favorite band is Pink Floyd**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jose maldonado" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jose maldonado" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<!-- Footer -->
+<div align="center">
+  <p>⭐️ Thank you for visiting my profile! Let's connect.</p>
+</div>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=propitive&label=Profile%20views&color=0e75b6&style=flat" alt="propitive" /> </p>
